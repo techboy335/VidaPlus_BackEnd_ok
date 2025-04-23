@@ -52,3 +52,9 @@ Todo o código-fonte e arquivos de configuração estão disponíveis neste repo
 ## 👨‍💻 Autor
 
 Alexandre da Silva – RU: 4377199
+Curso: Analise e Desenvolvimento de Software
+Disciplina: Projeto: Desenvolvimento Back-end
+Período: 5º Semestre
+Nome do projeto: MULTIDISCIPLINAR  SGHSS - Back-End
+Professor Tutor: PROF. WINSTON SEN LUN FUNG, ME
+
